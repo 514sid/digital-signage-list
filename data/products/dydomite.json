@@ -30,14 +30,14 @@
         {
           "name": "Free: 3 displays",
           "payment_model": "subscription",
-          "billing_basis": "per_screen",
+          "billing_basis": "per_device",
           "monthly": 0,
           "yearly": 0
         },
         {
           "name": "Pro",
           "payment_model": "subscription",
-          "billing_basis": "per_screen",
+          "billing_basis": "per_device",
           "monthly": 19,
           "yearly": 180
         }

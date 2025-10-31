@@ -32,14 +32,14 @@
         {
           "name": "Basic",
           "payment_model": "subscription",
-          "billing_basis": "per_screen",
+          "billing_basis": "per_device",
           "monthly": 8,
           "yearly": null
         },
         {
           "name": "Premium",
           "payment_model": "subscription",
-          "billing_basis": "per_screen",
+          "billing_basis": "per_device",
           "monthly": 10,
           "yearly": null
         }

@@ -29,28 +29,28 @@
         {
           "name": "1 Screen",
           "payment_model": "subscription",
-          "billing_basis": "per_screen",
+          "billing_basis": "per_device",
           "monthly": 0,
           "yearly": 0
         },
         {
           "name": "2-9 Screens",
           "payment_model": "subscription",
-          "billing_basis": "per_screen",
+          "billing_basis": "per_device",
           "monthly": 10.3,
           "yearly": null
         },
         {
           "name": "10-19 Screens",
           "payment_model": "subscription",
-          "billing_basis": "per_screen",
+          "billing_basis": "per_device",
           "monthly": 9.14,
           "yearly": null
         },
         {
           "name": "20-49 Screens",
           "payment_model": "subscription",
-          "billing_basis": "per_screen",
+          "billing_basis": "per_device",
           "monthly": 7.99,
           "yearly": null
         }

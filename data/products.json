@@ -480,7 +480,7 @@
           {
             "name": "1 Device",
             "payment_model": "subscription",
-            "billing_basis": "per_screen",
+            "billing_basis": "per_device",
             "monthly": 12.99,
             "yearly": 129.99
           }
@@ -1643,28 +1643,28 @@
           {
             "name": "1 Screen",
             "payment_model": "subscription",
-            "billing_basis": "per_screen",
+            "billing_basis": "per_device",
             "monthly": 0,
             "yearly": 0
           },
           {
             "name": "2-9 Screens",
             "payment_model": "subscription",
-            "billing_basis": "per_screen",
+            "billing_basis": "per_device",
             "monthly": 10.3,
             "yearly": null
           },
           {
             "name": "10-19 Screens",
             "payment_model": "subscription",
-            "billing_basis": "per_screen",
+            "billing_basis": "per_device",
             "monthly": 9.14,
             "yearly": null
           },
           {
             "name": "20-49 Screens",
             "payment_model": "subscription",
-            "billing_basis": "per_screen",
+            "billing_basis": "per_device",
             "monthly": 7.99,
             "yearly": null
           }
@@ -2069,7 +2069,7 @@
           {
             "name": "Starting price",
             "payment_model": "subscription",
-            "billing_basis": "per_screen",
+            "billing_basis": "per_device",
             "monthly": 10.4,
             "yearly": null
           }
@@ -2105,14 +2105,14 @@
           {
             "name": "Basic",
             "payment_model": "subscription",
-            "billing_basis": "per_screen",
+            "billing_basis": "per_device",
             "monthly": 8,
             "yearly": null
           },
           {
             "name": "Premium",
             "payment_model": "subscription",
-            "billing_basis": "per_screen",
+            "billing_basis": "per_device",
             "monthly": 10,
             "yearly": null
           }
@@ -4859,14 +4859,14 @@
           {
             "name": "Free: 3 displays",
             "payment_model": "subscription",
-            "billing_basis": "per_screen",
+            "billing_basis": "per_device",
             "monthly": 0,
             "yearly": 0
           },
           {
             "name": "Pro",
             "payment_model": "subscription",
-            "billing_basis": "per_screen",
+            "billing_basis": "per_device",
             "monthly": 19,
             "yearly": 180
           }
@@ -13570,7 +13570,7 @@
           {
             "name": "Subscription",
             "payment_model": "subscription",
-            "billing_basis": "per_screen",
+            "billing_basis": "per_device",
             "monthly": 99,
             "yearly": null
           }
@@ -17523,7 +17523,7 @@
           {
             "name": "50 screens",
             "payment_model": "subscription",
-            "billing_basis": "per_screen",
+            "billing_basis": "per_device",
             "monthly": 8,
             "yearly": null
           }
@@ -17968,7 +17968,7 @@
           {
             "name": "Earners",
             "payment_model": "subscription",
-            "billing_basis": "per_screen",
+            "billing_basis": "per_device",
             "monthly": 0,
             "yearly": 0
           }

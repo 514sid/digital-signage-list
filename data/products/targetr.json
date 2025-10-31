@@ -29,7 +29,7 @@
         {
           "name": "50 screens",
           "payment_model": "subscription",
-          "billing_basis": "per_screen",
+          "billing_basis": "per_device",
           "monthly": 8,
           "yearly": null
         }

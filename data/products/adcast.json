@@ -28,7 +28,7 @@
         {
           "name": "1 Device",
           "payment_model": "subscription",
-          "billing_basis": "per_screen",
+          "billing_basis": "per_device",
           "monthly": 12.99,
           "yearly": 129.99
         }

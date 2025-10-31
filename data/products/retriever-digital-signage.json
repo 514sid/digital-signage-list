@@ -25,7 +25,7 @@
         {
           "name": "Subscription",
           "payment_model": "subscription",
-          "billing_basis": "per_screen",
+          "billing_basis": "per_device",
           "monthly": 99,
           "yearly": null
         }
