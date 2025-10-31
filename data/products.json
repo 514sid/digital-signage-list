@@ -13549,6 +13549,42 @@
     }
   },
   {
+    "id": "retriever-digital-signage",
+    "name": "Retriever Digital Signage",
+    "description": "",
+    "website": "https://retrieverdigitalsignage.com/",
+    "headquarters": "USA",
+    "open_source": false,
+    "self_signup": true,
+    "discontinued": false,
+    "year_founded": 2006,
+    "notes": [],
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ],
+    "models": [
+      {
+        "delivery": "cloud",
+        "pricing": [
+          {
+            "name": "Subscription",
+            "payment_model": "subscription",
+            "billing_basis": "per_screen",
+            "monthly": 99,
+            "yearly": null
+          }
+        ],
+        "free_trial": true,
+        "pricing_available": true,
+        "has_freemium": false
+      }
+    ],
+    "cms_properties": {
+      "supported_platforms": []
+    }
+  },
+  {
     "id": "revel-digital",
     "name": "Revel Digital",
     "description": "",
