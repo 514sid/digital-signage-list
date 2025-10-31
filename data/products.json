@@ -17968,7 +17968,7 @@
           {
             "name": "Earners",
             "payment_model": "subscription",
-            "billing_basis": "per_device",
+            "billing_basis": "per_screen",
             "monthly": 0,
             "yearly": 0
           }
