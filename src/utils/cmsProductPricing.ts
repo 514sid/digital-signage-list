@@ -13,7 +13,7 @@ export const getCMSProductPricingPreview = (product: Product) => {
 		return 'On request'
 	}
 	
-	const perDevicePricing = cloudModel.pricing.find(p => p.billing_basis === 'per_device' && p.monthly !== 0 && p.yearly !== 0)
+	const perDevicePricing = cloudModel.pricing.find(p => p.billing_basis === 'per_device' && (p.monthly !== 0 || p.yearly !== 0))
 	if (perDevicePricing?.monthly) {
 		return `$${perDevicePricing.monthly} / month`
 	}
