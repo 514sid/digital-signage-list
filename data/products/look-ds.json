@@ -46,7 +46,10 @@
       "Linux",
       "Windows",
       "macOS",
-      "webOS"
+      "webOS",
+      "Amazon Signage",
+      "Raspberry Pi",
+      "Tizen"
     ]
   },
   "discontinued": false

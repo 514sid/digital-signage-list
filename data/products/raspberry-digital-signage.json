@@ -24,6 +24,8 @@
     }
   ],
   "cms_properties": {
-    "supported_platforms": []
+    "supported_platforms": [
+      "Raspberry Pi"
+    ]
   }
 }
