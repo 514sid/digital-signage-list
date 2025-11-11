@@ -9193,9 +9193,12 @@
     ],
     "cms_properties": {
       "supported_platforms": [
+        "Amazon Signage",
         "Android",
         "Fire OS",
         "Linux",
+        "Raspberry Pi",
+        "Tizen",
         "Windows",
         "macOS",
         "webOS"
@@ -13284,7 +13287,9 @@
       }
     ],
     "cms_properties": {
-      "supported_platforms": []
+      "supported_platforms": [
+        "Raspberry Pi"
+      ]
     }
   },
   {

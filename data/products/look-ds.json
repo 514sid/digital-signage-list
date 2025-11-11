@@ -41,15 +41,15 @@
   ],
   "cms_properties": {
     "supported_platforms": [
+      "Amazon Signage",
       "Android",
       "Fire OS",
       "Linux",
+      "Raspberry Pi",
+      "Tizen",
       "Windows",
       "macOS",
-      "webOS",
-      "Amazon Signage",
-      "Raspberry Pi",
-      "Tizen"
+      "webOS"
     ]
   },
   "discontinued": false
