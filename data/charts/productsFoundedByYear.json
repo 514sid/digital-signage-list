@@ -46,6 +46,10 @@
   "2022": 22,
   "2023": 23,
   "2024": 18,
+<<<<<<< HEAD
   "2025": 8,
+=======
+  "2025": 9,
+>>>>>>> b05408d (Replace Garlic Player with GarlicSignage: updated README, product details, and logos; adjusted founding year and platform support in product data.)
   "2026": 0
 }

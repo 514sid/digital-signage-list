@@ -6535,6 +6535,46 @@
     }
   },
   {
+<<<<<<< HEAD
+=======
+    "id": "garlic-signage",
+    "name": "GarlicSignage",
+    "description": "Open Source Apps for Digital Signage",
+    "website": "https://garlic-signage.com/",
+    "headquarters": "Germany",
+    "open_source": true,
+    "self_signup": true,
+    "discontinued": false,
+    "year_founded": 2025,
+    "notes": [
+      "You can buy professional support via SmilControl"
+    ],
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ],
+    "models": [
+      {
+        "delivery": "cloud",
+        "pricing": [],
+        "free_trial": false,
+        "pricing_available": false,
+        "has_freemium": false
+      }
+    ],
+    "cms_properties": {
+      "supported_platforms": [
+        "Android",
+        "Fire OS",
+        "Linux",
+        "Web Browser",
+        "Windows",
+        "macOS"
+      ]
+    }
+  },
+  {
+>>>>>>> b05408d (Replace Garlic Player with GarlicSignage: updated README, product details, and logos; adjusted founding year and platform support in product data.)
     "id": "glootv",
     "name": "GlooTV",
     "description": "",

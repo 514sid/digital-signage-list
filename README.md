@@ -208,6 +208,10 @@ Total Products: 544
 - [FuneralScreen](https://funeralscreen.com/)
 - [Fusion Signage](https://fusionsignage.com.au/)
 - [Fyresign](https://fyresign.com/en)
+<<<<<<< HEAD
+=======
+- [GarlicSignage](https://garlic-signage.com/)
+>>>>>>> b05408d (Replace Garlic Player with GarlicSignage: updated README, product details, and logos; adjusted founding year and platform support in product data.)
 - [GlooTV](https://glooclub.com/)
 - [GoBright](https://gobright.com/products/digital-signage/)
 - [Gorilla Video Analytics](https://www.gorilla-technology.com/technologies/video-analytics/)
