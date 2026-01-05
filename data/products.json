@@ -6535,8 +6535,6 @@
     }
   },
   {
-<<<<<<< HEAD
-=======
     "id": "garlic-signage",
     "name": "GarlicSignage",
     "description": "Open Source Apps for Digital Signage",
@@ -6574,7 +6572,6 @@
     }
   },
   {
->>>>>>> b05408d (Replace Garlic Player with GarlicSignage: updated README, product details, and logos; adjusted founding year and platform support in product data.)
     "id": "glootv",
     "name": "GlooTV",
     "description": "",
