@@ -6535,43 +6535,6 @@
     }
   },
   {
-    "id": "garlic-player",
-    "name": "Garlic Player",
-    "description": "",
-    "website": "https://garlic-player.com/",
-    "headquarters": "Germany",
-    "open_source": true,
-    "self_signup": false,
-    "discontinued": false,
-    "year_founded": 2016,
-    "notes": [
-      "You need to build your own CMS to connect this player, or use it with a SmilControl CMS."
-    ],
-    "stats": {},
-    "has_logo": true,
-    "categories": [
-      "CMS"
-    ],
-    "models": [
-      {
-        "delivery": "cloud",
-        "pricing": [],
-        "free_trial": false,
-        "pricing_available": false,
-        "has_freemium": false
-      }
-    ],
-    "cms_properties": {
-      "supported_platforms": [
-        "Android",
-        "Fire OS",
-        "Linux",
-        "Windows",
-        "macOS"
-      ]
-    }
-  },
-  {
     "id": "glootv",
     "name": "GlooTV",
     "description": "",
