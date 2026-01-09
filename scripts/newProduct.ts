@@ -54,7 +54,7 @@ const createTemplate = async (): Promise<void> => {
 					{
 						name: '',
 						payment_model: 'subscription',
-						billing_basis: 'per_screen',
+						billing_basis: 'per_device',
 						monthly: null,
 						yearly: null
 					}
