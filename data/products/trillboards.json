@@ -27,7 +27,7 @@
         {
           "name": "Earners",
           "payment_model": "subscription",
-          "billing_basis": "per_screen",
+          "billing_basis": "per_device",
           "monthly": 0,
           "yearly": 0
         }
