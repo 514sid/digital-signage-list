@@ -10208,6 +10208,45 @@
     }
   },
   {
+    "id": "mediax",
+    "name": "MediaX",
+    "description": "",
+    "website": "https://mediaxgo.com/",
+    "headquarters": "Sri Lanka",
+    "open_source": false,
+    "self_signup": true,
+    "discontinued": false,
+    "year_founded": 2025,
+    "notes": [],
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ],
+    "models": [
+      {
+        "delivery": "cloud",
+        "pricing": [
+          {
+            "name": "Starter",
+            "payment_model": "subscription",
+            "billing_basis": "per_device",
+            "monthly": 2.5,
+            "yearly": 25
+          }
+        ],
+        "free_trial": true,
+        "pricing_available": true,
+        "has_freemium": true
+      }
+    ],
+    "cms_properties": {
+      "supported_platforms": [
+        "Android",
+        "Fire OS"
+      ]
+    }
+  },
+  {
     "id": "medisign",
     "name": "MEDI+SIGN",
     "description": "",
@@ -18005,7 +18044,7 @@
           {
             "name": "Earners",
             "payment_model": "subscription",
-            "billing_basis": "per_screen",
+            "billing_basis": "per_device",
             "monthly": 0,
             "yearly": 0
           }
