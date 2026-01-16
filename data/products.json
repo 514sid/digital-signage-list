@@ -15037,6 +15037,71 @@
     }
   },
   {
+    "id": "signa",
+    "name": "Signa",
+    "description": "",
+    "website": "https://signa.tv/",
+    "headquarters": "USA",
+    "open_source": false,
+    "self_signup": true,
+    "discontinued": false,
+    "year_founded": 2022,
+    "notes": [],
+    "has_logo": true,
+    "categories": [
+      "CMS"
+    ],
+    "models": [
+      {
+        "delivery": "cloud",
+        "pricing": [
+          {
+            "name": "Free",
+            "payment_model": "subscription",
+            "billing_basis": "per_device",
+            "monthly": 0,
+            "yearly": 0
+          },
+          {
+            "name": "0-10 Screens",
+            "payment_model": "subscription",
+            "billing_basis": "per_device",
+            "monthly": 12,
+            "yearly": 120
+          },
+          {
+            "name": "11-25 Screens",
+            "payment_model": "subscription",
+            "billing_basis": "per_device",
+            "monthly": 10,
+            "yearly": 96
+          },
+          {
+            "name": "26-50 Screens",
+            "payment_model": "subscription",
+            "billing_basis": "per_device",
+            "monthly": 8,
+            "yearly": 84
+          }
+        ],
+        "free_trial": true,
+        "pricing_available": true,
+        "has_freemium": true
+      }
+    ],
+    "cms_properties": {
+      "supported_platforms": [
+        "Android",
+        "Fire OS",
+        "Linux",
+        "Web Browser",
+        "Windows",
+        "iOS",
+        "macOS"
+      ]
+    }
+  },
+  {
     "id": "signage-ninja",
     "name": "signage.ninja",
     "description": "",
